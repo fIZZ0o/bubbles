@@ -1,2 +1,2 @@
-# hello-world
-This is my hello-world repo, it is for my first Gitub project: hello-world.
+# bubbles0Oo
+This is my bubbles repo, it is for my first Gitub project: bubbles.
